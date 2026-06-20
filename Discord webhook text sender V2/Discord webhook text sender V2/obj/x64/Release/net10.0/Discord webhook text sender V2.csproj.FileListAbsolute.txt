@@ -1,0 +1,14 @@
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\bin\x64\Release\net10.0\Discord webhook text sender V2.exe
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\bin\x64\Release\net10.0\Discord webhook text sender V2.deps.json
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\bin\x64\Release\net10.0\Discord webhook text sender V2.runtimeconfig.json
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\bin\x64\Release\net10.0\Discord webhook text sender V2.dll
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\bin\x64\Release\net10.0\Discord webhook text sender V2.pdb
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\Discord webhook text sender V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\Discord webhook text sender V2.AssemblyInfoInputs.cache
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\Discord webhook text sender V2.AssemblyInfo.cs
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\Discord webhook text sender V2.csproj.CoreCompileInputs.cache
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\Discord webhook text sender V2.dll
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\refint\Discord webhook text sender V2.dll
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\Discord webhook text sender V2.pdb
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\Discord webhook text sender V2.genruntimeconfig.cache
+C:\Users\idontwanna\source\repos\Discord webhook text sender V2\Discord webhook text sender V2\obj\x64\Release\net10.0\ref\Discord webhook text sender V2.dll

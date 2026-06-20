@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Discord webhook text sender V2/Discord webhook text sender V2.csproj">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
